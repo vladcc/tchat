@@ -1,5 +1,5 @@
 # tchat
-Chat 1 on 1 over LAN in the terminal
+Chat 1 on 1 over LAN. In the terminal.
 
 Hey there! Welcome to the readme.
 
